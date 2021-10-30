@@ -1,0 +1,5 @@
+https://www.curict.com/item/5a/5ac72d2.html
+python -m pip install --upgrade pip
+
+最新なら、下記のような表示
+Requirement already satisfied: pip in /usr/local/lib/python3.9/site-packages (21.1.3)
